@@ -1,30 +1,30 @@
-<!-- 🔥 Animated Header -->
-<h1 align="center">Hi 👋, I'm Manesh Samararathne</h1>
-<h3 align="center">Data Science & Business Analytics MSc | Aspiring Data Analyst in the UK</h3>
+<!-- ========================== Techy Eye-Catchy README ========================== -->
+
+<h1 align="center">👋 Hi, I'm <span style="color:#4fd1fe">Manesh Samararathne</span></h1>
+<h3 align="center">🚀 MSc Data Science & Business Analytics | Aspiring UK Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Insights;4%2B+Years+IT+Experience&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;4%2B+Years+IT+Experience;Full-Stack+Tech+Skills">
 </p>
 
 ---
 
-## 🚀 About Me  
+## 💡 About Me  
 
-🎓 MSc in **Data Science & Business Analytics** | University of Plymouth  
+🎓 MSc in **Data Science & Business Analytics** | University of Plymouth (Currently Pursuing)  
+🎓 BSc in **Software Engineering (Second Class Upper)** | University of Plymouth, 2020  
 📍 Based in the United Kingdom | Open to Opportunities  
 
-🎯 **Target Role:** Data Analyst / Business Intelligence  
+I’m a **tech-savvy, data-driven professional** with **4+ years of IT industry experience**, specializing in:  
+- 💼 Business Analysis  
+- 🗂 Project Management  
+- 📊 Data Analysis  
 
-I’m a data-driven professional with **4+ years of experience in the IT industry**, specializing in:  
-- Business Analysis  
-- Project Management  
-- Data Analysis  
-
-I focus on transforming **business requirements into actionable insights** to support data-driven decision-making.
+I transform **business problems into actionable insights** using cutting-edge technology and analytics tools.
 
 ---
 
-## 🛠️ Tech Stack  
+## ⚡ Tech Stack  
 
 ### 📊 Data & Analytics  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,6 +33,7 @@ I focus on transforming **business requirements into actionable insights** to su
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 👨‍💻 Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,38 +59,42 @@ I focus on transforming **business requirements into actionable insights** to su
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
----
-
 ## 🎯 Current Focus  
 
-- Building practical **Data Science & Analytics solutions**  
-- Enhancing **data visualization & storytelling**  
-- Preparing for **Data Analyst roles in the UK job market**  
+- 🛠 Building practical **Data Science & Analytics solutions**  
+- 📊 Enhancing **data visualization & storytelling**  
+- 🌐 Preparing for **Data Analyst roles in the UK job market**
 
 ---
 
 ## 📫 Connect  
 
-💼 LinkedIn: *(Add your link)*  
-📧 Email: *(Add your email)*  
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+💼 LinkedIn: *[(Add your link)](https://www.linkedin.com/in/manesh-samararathne-93157a16a/)*  
+📧 Email: *msamararathne@gmail.com*  
 
 ---
 
 ## 🚀  
 
 **Open to Data Analyst & BI opportunities in the UK — let’s connect.**
+
+<!-- ================= FUTURE ENABLE (UNCOMMENT WHEN READY) ================= -->
+
+<!--
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+-->
+
+<!--
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+-->
+
+<!-- ======================================================================= -->
