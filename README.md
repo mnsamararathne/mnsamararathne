@@ -3,9 +3,12 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4fd1fe">Manesh Samararathne</span></h1>
 <h3 align="center">🚀 MSc Data Science & Business Analytics | Aspiring UK Data Analyst</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=800&lines=Data+Analyst+|+Business+Analyst;4%2B+Years+IT+Experience" />
-</p>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=800&lines=Data+Analyst+|+Business+Analyst;4%2B+Years+IT+Experience"
+    style="display: block; margin: 0 auto;"
+  />
+</div>
 
 ## 💡 About Me  
 
