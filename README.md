@@ -4,7 +4,11 @@
 <h3 align="center">🚀 MSc Data Science & Business Analytics | Aspiring UK Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;4%2B+Years+IT+Experience;Full-Stack+Tech+Skills">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=700&lines=Data+Analyst+%7C+Business+Intelligence;4%2B+Years+IT+Experience">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=700&lines=Turning+Data+into+Actionable+Insights;Full-Stack+Tech+Skills">
 </p>
 
 ---
