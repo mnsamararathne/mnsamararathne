@@ -5,8 +5,7 @@
 
 |  |
 |:-:|
-| <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=800&lines=Data+Analyst;Business+Intelligence;4%2B+Years+IT+Experience" /> |
-
+| <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=1200&lines=Data+Analyst;Business+Intelligence;4%2B+Years+IT+Experience" /> |
 ---
 
 ## 💡 About Me  
