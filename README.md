@@ -5,7 +5,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=800&lines=Data+Analyst+|+Business+Analyst;4%2B+Years+IT+Experience"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FD1FE&width=600&lines=Data+Analyst+|+Business+Analyst;4%2B+Years+IT+Experience"
     style="display: block; margin: 0 auto;"
   />
 </div>
