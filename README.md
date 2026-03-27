@@ -1,16 +1,95 @@
-## Hi there 👋
+<!-- 🔥 Animated Header -->
+<h1 align="center">Hi 👋, I'm Manesh Samararathne</h1>
+<h3 align="center">Data Science & Business Analytics MSc | Aspiring Data Analyst in the UK</h3>
 
-<!--
-**mnsamararathne/mnsamararathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Insights;4%2B+Years+IT+Experience&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+🎓 MSc in **Data Science & Business Analytics** | University of Plymouth  
+📍 Based in the United Kingdom | Open to Opportunities  
+
+🎯 **Target Role:** Data Analyst / Business Intelligence  
+
+I’m a data-driven professional with **4+ years of experience in the IT industry**, specializing in:  
+- Business Analysis  
+- Project Management  
+- Data Analysis  
+
+I focus on transforming **business requirements into actionable insights** to support data-driven decision-making.
+
+---
+
+## 🛠️ Tech Stack  
+
+### 📊 Data & Analytics  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 👨‍💻 Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Web Technologies  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### ⚙️ Tools & Methods  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![UML](https://img.shields.io/badge/UML-Diagrams-blue?style=for-the-badge)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🎯 Current Focus  
+
+- Building practical **Data Science & Analytics solutions**  
+- Enhancing **data visualization & storytelling**  
+- Preparing for **Data Analyst roles in the UK job market**  
+
+---
+
+## 📫 Connect  
+
+💼 LinkedIn: *(Add your link)*  
+📧 Email: *(Add your email)*  
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀  
+
+**Open to Data Analyst & BI opportunities in the UK — let’s connect.**
