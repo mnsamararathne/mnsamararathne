@@ -69,7 +69,7 @@ I transform **business problems into actionable insights** using cutting-edge te
 
 ## 📫 Connect  
 
-💼 LinkedIn: *[(manesh-samararathne-93157a16a/)](https://www.linkedin.com/in/manesh-samararathne-93157a16a/)*  
+💼 LinkedIn: *[(manesh-samararathne-93157a16a)](https://www.linkedin.com/in/manesh-samararathne-93157a16a/)*  
 📧 Email: *msamararathne@gmail.com*  
 
 ---
